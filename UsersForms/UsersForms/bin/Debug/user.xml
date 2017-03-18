@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfUserClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserClass>
+    <Name>admin</Name>
+    <Password>admin1234</Password>
+    <dUser>true</dUser>
+    <aUser>true</aUser>
+  </UserClass>
+  <UserClass>
+    <Name>user1</Name>
+    <Password>qwerty123</Password>
+    <dUser>true</dUser>
+    <aUser>false</aUser>
+  </UserClass>
+  <UserClass>
+    <Name>petya</Name>
+    <Password>987654321</Password>
+    <dUser>false</dUser>
+    <aUser>false</aUser>
+  </UserClass>
+  <UserClass>
+    <Name>vasya</Name>
+    <Password>1qw234</Password>
+    <dUser>false</dUser>
+    <aUser>false</aUser>
+  </UserClass>
+</ArrayOfUserClass>
